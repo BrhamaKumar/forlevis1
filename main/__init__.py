@@ -17,7 +17,7 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 # variables
 API_ID = config("API_ID", "10000844", cast=int)
 API_HASH = config("API_HASH", "776f257fc1d1f8aa4aea9dd35d10a45b")
-BOT_TOKEN = config("BOT_TOKEN", "7395932935:AAFxSqwIZkTTdosHWGEfipS9u1nuG54ZfZY")
+BOT_TOKEN = config("BOT_TOKEN", "7395932935:AAGpdM2ybVd3xWsidgB4MnJ2H5tCX19_s8E")
 SESSION = config("SESSION", "BQCYmcwAqrKNkxcHi8R9hR05aSXpHrKs87NUOudJzZhGZag1eE-pUCMuQxh1gZBzakmeiYsEr9wiPhsc8_AVEEXaGQFjmgTB6vlijXCA5ucSc3hCI8gob3o8By9yJuFqRzkrJjE_orNO074SI6s04UC797FOzb_8KYDv0Ty01-aBioE0tbye1SiVmCAZQoz94CQqk6oSDGWGO2rO773xNWGMki67OBPkAgV9YC80zI7OPLImIclkLfwRZnGeTCjjoxMce9ZeRhzwjGuzOHrMxxZindherrbyQka_k8qODaLveSiEeKmIHRkmhhHBCSivsREQ1u1veBSmidRA61o_lE2jlBZ0QQAAAAE7-5OBAA")
 FORCESUB = config("FORCESUB", "funnyzilla")
 AUTH = config("AUTH", "5301310337")
